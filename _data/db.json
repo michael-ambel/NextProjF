@@ -1,0 +1,95 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "title": "Login Issue",
+      "body": "The user is experiencing an issue where valid login credentials are not being recognized, preventing access to the system. This problem needs urgent attention to avoid further frustration.",
+      "priority": "high",
+      "user_email": "user1@example.com"
+    },
+    {
+      "id": "2",
+      "title": "Broken Link on Dashboard",
+      "body": "The link to the settings page on the dashboard is broken and currently results in a 404 error. This issue disrupts user workflow and requires immediate fixing to restore functionality.",
+      "priority": "medium",
+      "user_email": "user2@example.com"
+    },
+    {
+      "id": "3",
+      "title": "Feature Request: Dark Mode",
+      "body": "Users have suggested a dark mode option for the interface, especially for those who work during nighttime or in low-light environments. This feature would greatly enhance usability and accessibility.",
+      "priority": "low",
+      "user_email": "user3@example.com"
+    },
+    {
+      "id": "4",
+      "title": "Slow Page Load",
+      "body": "The homepage is taking an unusually long time to load, often exceeding 10 seconds. This significantly impacts user experience and may lead to higher bounce rates. An optimization is urgently needed.",
+      "priority": "high",
+      "user_email": "user4@example.com"
+    },
+    {
+      "id": "5",
+      "title": "Password Reset Email Not Sent",
+      "body": "Users attempting to reset their passwords are not receiving the reset emails. This issue creates a major inconvenience for affected users and needs to be resolved as soon as possible.",
+      "priority": "medium",
+      "user_email": "user5@example.com"
+    },
+    {
+      "id": "aac1",
+      "title": "Test",
+      "body": "blah blah blah",
+      "priority": "low",
+      "user_email": "userdefault@email.com"
+    },
+    {
+      "id": "557a",
+      "title": "Test 2",
+      "body": "blah",
+      "priority": "medium",
+      "user_email": "userdefault@email.com"
+    },
+    {
+      "id": "adf7",
+      "title": "Server Issue",
+      "body": "The user is experiencing an issue where valid login credentials are not being recognized, preventing access to the system. This problem needs urgent attention to avoid further frustration.",
+      "priority": "high",
+      "user_email": "user1@example.com"
+    },
+    {
+      "id": "8c42",
+      "title": "Server Issue",
+      "body": "The user is experiencing an issue where valid login credentials are not being recognized, preventing access to the system. This problem needs urgent attention to avoid further frustration.",
+      "priority": "high",
+      "user_email": "user1@example.com"
+    },
+    {
+      "id": "dc6d",
+      "title": "Server Issue",
+      "body": "The user is experiencing an issue where valid login credentials are not being recognized, preventing access to the system. This problem needs urgent attention to avoid further frustration.",
+      "user_email": "user1@example.com",
+      "priority": "high"
+    },
+    {
+      "id": "89ee",
+      "title": "Server Issue",
+      "body": "The user is experiencing an issue where valid login credentials are not being recognized, preventing access to the system. This problem needs urgent attention to avoid further frustration.",
+      "user_email": "user1@example.com",
+      "priority": "high"
+    },
+    {
+      "id": "625c",
+      "title": "Server Issue",
+      "body": "The user is experiencing an issue where valid login credentials are not being recognized, preventing access to the system. This problem needs urgent attention to avoid further frustration.",
+      "user_email": "user1@example.com",
+      "priority": "high"
+    },
+    {
+      "id": "0ea1",
+      "title": "Server Issue",
+      "body": "The user is experiencing an issue where valid login credentials are not being recognized, preventing access to the system. This problem needs urgent attention to avoid further frustration.",
+      "user_email": "user1@example.com",
+      "priority": "high"
+    }
+  ]
+}
